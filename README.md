@@ -5,4 +5,4 @@ Uses a command line interface format; each attribute can be turned on or off as 
 
 As of August 2023, no longer works as Goodreads html tags have been updated but video below demonstrates its previous functionality.
 
-https://github.com/MalazanJQ/Book-WebScraper/assets/114039823/fbf3988a-8b2e-4072-af62-2d2ee6cc36d6
+https://github.com/MalazanJQ/Book-WebScraper/assets/114039823/222b905d-178e-4240-b35c-14d9d9e2580b
